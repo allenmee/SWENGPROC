@@ -22,6 +22,6 @@ public class EngagementSpeed {
     }
 
     public void setMinimum(int minimum) {
-        this.minimum = minimum;
+        this.minimum = minimum;     
     }
 }

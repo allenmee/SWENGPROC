@@ -11,13 +11,13 @@ package ControlPanel;
  */
 public class MasterMode {
     
-    char mode[];
+    byte mode;
     
     public MasterMode(){
 
     }
 
-    public void setMode(char[] mode) {
+    public void setMode(byte mode) {
         this.mode = mode;
     }
 }
